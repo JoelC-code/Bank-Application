@@ -24,10 +24,10 @@ This Application is made for the final project for Algorithm & Programming. An a
 ![Account balance](Balance.png)
 
 ### Making Schedule
-![Mentoring Schedule](BuatjAdwal.png)
+![Mentoring Schedule](BuatJAdwal.png)
 
 ### Schedule for mentoring
-![Saved Schedule](jadwalFullMentor.png)
+![Saved Schedule](JadwalFullMentor.png)
 
 To set up:  
 1. Open `src` and search through the file and open `AFMenuSebelumLogin.java`
@@ -35,5 +35,6 @@ To set up:
 
 ## Live Demo
 *(Check `To set up`)* 
+
 
 
