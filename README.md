@@ -1,18 +1,39 @@
-## Getting Started
+# [Bank_Application] - Application Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
+This Application is made for the final project for Algorithm & Programming. An app that my friend Ayman and I took as a learning platform on making a simple data base through file-based saving, making a UI application using Java Swing & reading and saving data from the file to the UI.
 
-## Folder Structure
+## Role
+- Making how the UI should look
+- Database connection and manipulation (Login & Register credentials, Mentoring schedule & submission and transfer & information of the account)
 
-The workspace contains two folders by default, where:
+## Purpose
+- Learning about database through file-based
+- Learning about UI's in java
+- Learning to make a simple OOP concept on setters & getters
+- Learning on how to make a dynamic app that helps me on future course
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tools
+- Java (Swing Library)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Screenshot
+### Login
+![Login App](logim.png)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Account Balance
+![Account balance](Balance.png)
 
-## Dependency Management
+### Making Schedule
+![Mentoring Schedule](BuatjAdwal.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Schedule for mentoring
+![Saved Schedule](jadwalFullMentor.png)
+
+To set up:  
+1. Open `src` and search through the file and open `AFMenuSebelumLogin.java`
+2. Run the program
+
+## Live Demo
+*(Check `To set up`)* 
+
+
